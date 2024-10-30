@@ -42,7 +42,7 @@ PS C:\project ai>
 
 
 ## Flowchart
-![Flowchart](/flowchart8.png)
+![Flowchart](/flochart8.png)
 ## kode program 
 ```
 def kalkulator():
