@@ -40,6 +40,9 @@ Total harga yang harus dibayar: Rp63000.00
 PS C:\project ai>
 ```
 
+
+## Flowchart
+![Flowchart](/flowchart8.png)
 ## kode program 
 ```
 def kalkulator():
