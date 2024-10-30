@@ -1,3 +1,7 @@
+## Flowchart
+![Flowchart](/flochart8.png)
+
+
 ## kode program
 ```
 tipe_tiket = input("Masukkan tipe tiket (reguler/VIP): ").strip().lower()
@@ -41,8 +45,19 @@ PS C:\project ai>
 ```
 
 
+## Cara kerja program
+
+- Program meminta pengguna untuk memasukkan tipe tiket (reguler atau VIP) dan status keanggotaan (ya atau tidak).
+- Berdasarkan tipe tiket yang dipilih, program menetapkan harga tiket yang sesuai (Rp50.000 untuk reguler dan Rp100.000 untuk VIP).
+- Jika tipe tiket tidak valid, program mencetak pesan kesalahan dan menetapkan harga tiket menjadi 0.
+- Jika pengguna memiliki kartu member dan harga tiket valid, program menghitung diskon 20% dari harga tiket.
+- Total harga yang harus dibayar kemudian ditampilkan, dengan format dua angka desimal, jika harga tiket lebih dari 0.
+
+
 ## Flowchart
-![Flowchart](/flochart8.png)
+![Flowchart](/flowchartkalku1.png)
+
+
 ## kode program 
 ```
 def kalkulator():
