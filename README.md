@@ -1,3 +1,12 @@
+## Sistem pembelian tiket
+program untuk menghitung harga pembelian tiket reguler dan vip, dan status member
+
+
+## deskripsi program
+program ini memungkin kan pengguna sebagai berikut:
+Memilih jenis tiket (VIP/Reguler) Menentukan status member Mendapatkan perhitungan harga tiket final dengan diskon jika memiliki kartu member
+
+
 ## Flowchart
 ![Flowchart](/flochart8.png)
 
@@ -52,6 +61,14 @@ PS C:\project ai>
 - Jika tipe tiket tidak valid, program mencetak pesan kesalahan dan menetapkan harga tiket menjadi 0.
 - Jika pengguna memiliki kartu member dan harga tiket valid, program menghitung diskon 20% dari harga tiket.
 - Total harga yang harus dibayar kemudian ditampilkan, dengan format dua angka desimal, jika harga tiket lebih dari 0.
+
+
+## Program kalkulator
+untuk menghitung inputan
+
+
+## deskripsi program
+Program kalkulator yang mampu melakukan operasi dasar matematika dengan dua bilangan, user bisa memilih operasi yang ingin mereka lakukak (+,-.x.).
 
 
 ## Flowchart
@@ -109,5 +126,10 @@ PS C:\project ai>
 ```
 
 
-## Flowchart
-![Flowchart](/flowchartkalku1.png)
+## cara kerja program 
+- tolong masukan yang diminta untuk memasukkan dua angka dan satu operator.
+- Program memeriksa operator yang dimasukkan dan melakukan operasi matematika yang sesuai.
+- Jika operator valid dan tidak ada kesalahan (seperti pembagian dengan nol), program mengembalikan hasilnya.
+- Jika ada kesalahan, program mengembalikan pesan kesalahan yang sesuai.
+
+  Dengan cara ini, program ini berfungsi sebagai kalkulator sederhana yang dapat melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian.
